@@ -1,0 +1,153 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+::: {.paper-block}
+<div class="paper-status">Job Market Paper</div>
+<div class="paper-title">The Effects of Focused Deterrence on Crime and Community Outcomes in Philadelphia</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+Focused Deterrence is a crime-reduction strategy that combines an increased probability and severity of punishment with direct communication of consequences to individuals identified as likely offenders. Philadelphia implemented Focused Deterrence in 2013 in response to rising gun violence. We estimate this policy's effects on crime rates as well as community downstream effects on rental pricing and housing valuations. Using a standard difference-in-difference design, we find that the number of shooting victims declined by 41.3 percent and gun crime incidents fell by 24.2 percent. Total reported crime incidents declined by roughly 13.8 percent, reflecting reductions in both violent and non-violent offenses. This reduction in crime resulted in increases in rental prices between 6.0 to 7.5 percent, and housing values from 3.6 to 7.0 percent. Together, these findings suggest that Focused Deterrence's crime-reduction effects extend beyond its direct targets, and that this broader improvement in neighborhood safety is capitalized into local housing and rental markets.
+</details>
+
+[**Download PDF**](papers/philly-fd-jmp.pdf){.btn .btn-outline-dark role="button"}
+:::
+
+## Working Papers
+
+::: {.paper-block}
+<div class="paper-title">Involuntary Part-Time Employment, Gig Rollout, and the Flexibility of Work</div>
+<div class="paper-coauthors">with Srijan Banerjee</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+The Great Recession saw not only high unemployment, but also a sharp rise in involuntary part-time employment—workers seeking full-time work but finding only limited part-time hours. The involuntary part-time employment rate declined gradually throughout the mid-to-late 2010s, a period that coincided with the rapid expansion of gig employment. This paper examines whether the introduction of UberX, a major ride-hailing platform, causally reduced involuntary part-time work in metropolitan area labor forces. We utilize the geographic and temporal rollout of UberX across metropolitan areas to estimate causal effects via a staggered Difference-in-Differences strategy. Our results indicate that UberX entry reduces involuntary part-time employment as a share of the total labor force by 10 percent and as a fraction of total part-time employment by 8.7 percent. We find little evidence of other labor market flows during this period, suggesting that UberX serves as a mechanism for workers to transition from involuntary to voluntary part-time employment.
+</details>
+
+*Under review at Labour Economics.*
+
+[**Download PDF**](papers/gig-rollout.pdf){.btn .btn-outline-dark role="button"}
+:::
+
+::: {.paper-block}
+<div class="paper-title">When the Mines Close: Coal Employment Shocks and Family Health Impacts in Appalachia</div>
+<div class="paper-coauthors">with Maxwell Bullard and Miranda Lambert (Texas A&M University)</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+This paper investigates how coal mining employment in Appalachia affects health outcomes across different populations within mining-dependent counties. Using the substitution from coal to natural gas in electricity generation as an exogenous shock to coal demand beginning in the late 2000s, we construct a shift-share instrumental variable that exploits county-level variation in baseline coal dependence. We find that mining employment increases deaths of despair among working-age men, driven entirely by drug poisoning deaths, consistent with occupational exposure to prescription opioids. Mining employment also worsens reproductive health. We observe increases in fetal deaths, low birth weights, and preterm births associated with increased mining activity. However, a tradeoff emerges. Mining employment decline harms populations outside the workforce. We observe a decrease in birth rates as well as increases in deaths of despair among children and the elderly, also driven by drug poisonings. Comparing Appalachian to non-Appalachian coal counties reveals that the observed poisoning pathway is unique to Appalachia and not to coal mining itself. Our results suggest that Appalachian coal counties face competing health costs from both mining employment and its decline, with the burden falling on different members of the community.
+</details>
+
+[**Download PDF**](papers/coal-appalachia.pdf){.btn .btn-outline-dark role="button"}
+:::
+
+::: {.paper-block}
+<div class="paper-title">Abortion Access and Institutional Demand for Higher Education: Evidence from *Dobbs v. Jackson Women's Health Organization*</div>
+<div class="paper-coauthors">with B. Stalvey</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+The June 2022 Dobbs v. Jackson Women's Health Organization decision returned abortion policy to the states, producing the sharpest change in the geography of American abortion access in half a century. We ask how this shock propagated into the market for four-year undergraduate education, using 894 public and private not-for-profit institutions over 2010–2024 and a two-way fixed-effects event study comparing institutions in persistent-ban states to those in never-ban states. Across the application margin, where prior work using elite or high-achieving subsamples has identified declines, we estimate consistent nulls in both sectors: applications, admissions, and the gender composition of applicants do not respond to the bans. The first margin at which we detect a response is enrollment, and it moves in the opposite direction from the dominant health-care-amenity prediction: first-time full-time enrollment rises by roughly 3–10 percent at ban-state institutions relative to never-ban controls, across both genders and both sectors. The application-margin findings of prior work do not generalize beyond the elite slice, and the institution-level demand response to Dobbs is, on net, positive.
+</details>
+
+[**Download PDF**](papers/abortion-access-higher-ed.pdf){.btn .btn-outline-dark role="button"}
+:::
+
+## Work in Progress
+
+::: {.paper-block}
+<div class="paper-title">First-Generation and College Choice</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+This paper investigates the relationship between parental education and college matching decisions. First-generation college students more often face challenges in the college application process such as lack of college preparation coursework, lack of financial support to fund postsecondary education, and lack of guidance in applying and choosing which institution to attend. Using the High School Longitudinal Study of 2009, this paper investigates whether first-generation college students are more prone to academically mismatch with their college attended compared to non-first-generation college students. An academic match is the comparison of a student's placement in the academic ability distribution and their institution's placement on the college quality distribution. This paper seeks to contribute to the growing college matching literature and to shed light on the role of parental education in the match quality between student and institution attended.
+</details>
+:::
+
+::: {.paper-block}
+<div class="paper-title">Judicial Bias in Capital Sentencing in Early 20th Century South Carolina</div>
+<div class="paper-coauthors">with N. Dunagan</div>
+
+<details class="eval-details">
+<summary>Abstract</summary>
+
+This paper investigates whether racial disparities existed in capital sentencing in South Carolina during the early twentieth century. We construct a novel dataset by digitizing the Report of the Attorney General to the General Assembly of South Carolina and county Criminal Journals, allowing us to observe capital case outcomes at a level of geographic and temporal detail not previously available for this period. Our empirical strategy exploits the rotation of judges across judicial circuits, which effectively randomized the assignment of judges to counties at different points in the year, generating plausibly exogenous variation in the judge presiding over a given capital case. Focusing on murder and rape—the principal capital offenses of the period—we examine whether sentencing outcomes varied systematically with the race of the defendant, and whether the race of the victim, and the interaction between defendant and victim race, further shaped these outcomes. By situating this analysis within an era of widespread societal discrimination, the paper contributes historical context to the ongoing discussion of judicial decision-making and racial disparities in the American criminal justice system.
+</details>
+:::
+
+::: {.paper-block}
+<div class="paper-title">The Effects of Focused Deterrence on Education Outcomes in Philadelphia</div>
+<div class="paper-coauthors">with M. Laha</div>
+
+An extension of my job market paper examining how Focused Deterrence affected school-level educational outcomes in Philadelphia. Abstract forthcoming.
+:::
+
+## Research Presentations
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Southern Economic Association 96th Annual Meeting</span><span class="presentation-term">Fall 2026</span></div>
+<div class="presentation-title">"The Effects of Focused Deterrence on Crime and Community Outcomes in Philadelphia"</div>
+<div class="presentation-location">Houston, TX</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Spring 2026</span></div>
+<div class="presentation-title">"When the Mines Close: Coal Employment Shocks and Family Health Impacts in Appalachia"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Fall 2025</span></div>
+<div class="presentation-title">"The Effects of Focused Deterrence on Crime and Community Outcomes in Philadelphia"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Southern Economic Association 95th Annual Meeting</span><span class="presentation-term">Fall 2025</span></div>
+<div class="presentation-title">"Impact of Employment Shocks on Health Outcomes: Evidence from Appalachia"</div>
+<div class="presentation-location">Tampa, FL</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Spring 2025</span></div>
+<div class="presentation-title">"Involuntary Part-Time Employment, Gig Rollout, and the Flexibility of Work"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Fall 2024</span></div>
+<div class="presentation-title">"Involuntary Part-Time Employment, Gig Rollout, and the Flexibility of Work"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Southern Economic Association 94th Annual Meeting</span><span class="presentation-term">Fall 2024</span></div>
+<div class="presentation-title">"Involuntary Part-Time Employment, Gig Rollout, and the Flexibility of Work"<br>"First-Generation and College Choice"</div>
+<div class="presentation-location">Washington, DC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Spring 2024</span></div>
+<div class="presentation-title">"First-Generation and College Choice"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Applied Theory Reading Group</span><span class="presentation-term">Spring 2024</span></div>
+<div class="presentation-title">"Involuntary Part-Time Employment, Gig Rollout, and the Flexibility of Work"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>
+
+<div class="presentation-item">
+<div class="presentation-header"><span class="presentation-venue">Clemson Labor Economics Workshop</span><span class="presentation-term">Fall 2023</span></div>
+<div class="presentation-title">"First-Generation and College Choice"</div>
+<div class="presentation-location">Clemson, SC</div>
+</div>

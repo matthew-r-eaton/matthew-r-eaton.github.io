@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matt Eaton"
+  site-url: "https://yourusername.github.io/jobmarket-site/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:mreaton@clemson.edu"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/matt-r-eaton/"
+      - icon: github
+        href: "https://github.com/meaton9"
+
+  page-footer:
+    left: "© 2026 Matt Eaton"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 850px
