@@ -36,7 +36,7 @@ The Great Recession saw not only high unemployment, but also a sharp rise in inv
 
 ::: {.paper-block}
 <div class="paper-title">When the Mines Close: Coal Employment Shocks and Family Health Impacts in Appalachia</div>
-<div class="paper-coauthors">with Maxwell Bullard and Miranda Lambert (Texas A&M University)</div>
+<div class="paper-coauthors">with Maxwell Bullard and Miranda Lambert </div>
 
 <details class="eval-details">
 <summary>Abstract</summary>

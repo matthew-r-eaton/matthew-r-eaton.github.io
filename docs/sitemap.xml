@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourusername.github.io/jobmarket-site/cv.html</loc>
-    <lastmod>2026-08-14T18:27:47.018Z</lastmod>
-  </url>
-  <url>
     <loc>https://yourusername.github.io/jobmarket-site/teaching.html</loc>
-    <lastmod>2026-08-15T17:23:12.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yourusername.github.io/jobmarket-site/about.html</loc>
-    <lastmod>2026-08-15T19:16:39.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yourusername.github.io/jobmarket-site/research.html</loc>
-    <lastmod>2026-08-15T17:51:25.467Z</lastmod>
+    <lastmod>2026-08-15T19:41:58.025Z</lastmod>
   </url>
   <url>
     <loc>https://yourusername.github.io/jobmarket-site/index.html</loc>
-    <lastmod>2026-08-14T19:18:20.875Z</lastmod>
+    <lastmod>2026-08-15T20:03:01.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yourusername.github.io/jobmarket-site/about.html</loc>
+    <lastmod>2026-08-15T19:41:57.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yourusername.github.io/jobmarket-site/cv.html</loc>
+    <lastmod>2026-08-15T19:41:57.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yourusername.github.io/jobmarket-site/research.html</loc>
+    <lastmod>2026-08-15T20:03:04.875Z</lastmod>
   </url>
 </urlset>
