@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Matt Eaton"
-  site-url: "https://yourusername.github.io/jobmarket-site/"
+  site-url: "https://matthew-r-eaton.github.io/"
   navbar:
     left:
       - href: index.qmd
