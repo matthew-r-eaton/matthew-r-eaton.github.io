@@ -6,8 +6,7 @@ title: "About Me"
 
 I am a Ph.D. Candidate in the John E. Walker Department of Economics at Clemson University. I am expected to complete my Ph.D.in Economics in May 2027, following a M.S. in Applied Economics from Marquette University, and a B.A in Economics and Political Science, also from Marquette University.
 
-Alongside my academic training, I have worked in applied research roles across government, including as an Economist in the Office of Price and Living Conditions at the Bureau of Labor Statistics and as an Associate Educational Research Scientist with the U.S. Department of Education, and education, as an Institutional Research Assistant with Marquette University’s Office of Institutional Research and Analysis. 
-
+Alongside my academic training, I have worked in applied research roles across government and higher education, including as an Economist in the Office of Price and Living Conditions at the Bureau of Labor Statistics, as an Associate Educational Research Scientist with the U.S. Department of Education, and as an Institutional Research Assistant with Marquette University's Office of Institutional Research and Analysis.
 
 ## Research Interests
 
@@ -18,6 +17,6 @@ Alongside my academic training, I have worked in applied research roles across g
 
 ## Outside of Research
 
-Outside of research, I enjoy spending time outdoors camping with friends, going rock climbing, working on learning guitar, and spending time with my cat Miles. 
+Outside of research, I enjoy spending time outdoors camping with friends, going rock climbing,learning guitar, and spending time with my cat Miles. 
 
 ![](miles.jpg){.headshot style="float:none; display:block; margin:1rem auto 0;"}
