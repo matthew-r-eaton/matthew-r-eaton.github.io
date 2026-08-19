@@ -184,3 +184,27 @@ a:hover {
   color: #55677a;
   font-size: 0.9rem;
 }
+
+.headshot {
+  float: right;
+  width: 260px;
+  max-width: 40%;
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  margin: -0.5rem 0 1.5rem 2rem;
+}
+
+.contact-block {
+  clear: both;
+  margin-top: 2rem;
+}
+
+@media (max-width: 700px) {
+  .headshot {
+    float: none;
+    display: block;
+    margin: 1.5rem auto;
+    width: 70%;
+    max-width: 260px;
+  }
+}
